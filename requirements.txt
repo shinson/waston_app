@@ -1,0 +1,4 @@
+Django==1.10.2
+pysolr==3.5.0
+requests==2.11.1
+watson-developer-cloud==0.20.0
